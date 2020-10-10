@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+		<title>LOGO | Home</title>
+		<link rel="stylesheet" href="./styles.css">
+		<script src="https://kit.fontawesome.com/cf30b19bdf.js" crossorigin="anonymous"></script>
+	</head>
+	<body>
+
+		<!-- Header -->
+		<header>
+			<!-- <img class="nav-logo" src="../static/images/mss_logo.png"> -->
+			<p class="nav-logo">Logo</p>
+
+			<ul class="nav">
+				<li>
+					<a href="/nowhere">
+						Amazon (AMZ)
+					</a>
+				</li>
+				<li>
+					<a href="/nowhere">
+						Nike (NIKE)
+					</a>
+				</li>
+				<li>
+					<a href="/nowhere">
+						Google (GOGL)
+					</a>
+				</li>
+				<li>
+					<a href="/nowhere">
+						Apple (AAPL)
+					</a>
+				</li>
+				<li>
+					<a href="/nowhere">
+						Medifast (MED)
+					</a>
+				</li>
+				<li>
+					<a href="/nowhere">
+						Alibaba (BABA)
+					</a>
+				</li>
+				<li>
+					<a href="/nowhere">
+						Nexstar (NXST)
+					</a>
+				</li>
+			</ul>
+		</header>
+
+		<main>
+			<section class="left">
+				<h1>We use machine learning to predict stock prices based on the world's news about companies and stocks</h1>
+				<p>Give us a shot <i class="fas fa-arrow-right"></i></p>
+				<img class="news-circles" src="./images/newsCircles.png"/>
+			</section>
+
+			<section class="right">
+				<p>Enter the <span class="emphasis">company</span> or <span class="emphasis">stock name</span> below and let us do the magic<p>
+				<input type="text" placeholder="Enter company or stock name here"/>
+				<button class="std-btn">Assess</button>
+
+				<!-- It can be other statistics here -->
+				<section class="stats">
+					<h1>More than</h1>
+					<p class="counter">0</p>
+					<h1>news analyzed</h1>
+				</section>
+			</section>
+		</main>
+		<script>
+			setTimeout(() => {
+				const counterP = document.querySelector(".counter");
+				let counter = 1;
+
+				counterP.classList.add("active");
+
+				const intervalId = setInterval(() => {
+					counterP.innerHTML = counter;
+					counter++;
+
+					if (counter > 50000) {
+						clearInterval(intervalId);
+					}
+				}, 0.1)
+			}, 1000);
+		</script>
+	</body>
+</html>
