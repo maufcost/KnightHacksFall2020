@@ -136,7 +136,7 @@ def parse_news_result(news_response_obj):
         return []
     i = 0
     for each_article in temp_list:
-        if i > 15:
+        if i > 25:
             break
         else:
             if each_article.get("description") == None:
@@ -198,6 +198,28 @@ def analyze():
     #Output = 'Microsoft Corporation'
     return render_template("table.html", company=company_name, prediction=result_model, news=all_news_related, details=obj, label=label)
     #jsonify({"status":"200"})
+
+@app.route('/US')
+def us_analyze():
+    all_news_related = parse_news_result(top_headlines_in_the_us())
+
+    neg, neu, pos, netsent = [0,0,0,0]
+
+    for each_new in all_news_related:
+        result = gcp_sentiment_analysis(each_new['desc'])
+        each_new['res'] = result[0]*result[1]
+        if result[0] > 0.19:
+            pos += 1
+        elif result[0] > -0.25:
+            neu += 1
+        else:
+            neg += 1
+
+            netsent += result[0]*result[1]
+
+    obj = {'negative':neg, 'netsent':netsent, 'neutral':neu, 'positive':pos}
+    return render_template("US.html", news=all_news_related, details=obj)
+
 
 if __name__ == '__main__':
     # This is used when running locally only. When deploying to Google App

@@ -60,9 +60,11 @@
 			</section>
 
 			<section class="right">
-				<p>Enter the <span class="emphasis">company</span> or <span class="emphasis">stock name</span> below and let us do the magic<p>
-				<input type="text" placeholder="Enter company or stock name here"/>
-				<button class="std-btn">Assess</button>
+				<form class="" action="/analyze" method="get">
+					<p>Enter the <span class="emphasis">company</span> or <span class="emphasis">stock name</span> below and let us do the magic<p>
+					<input type="text" name='q' placeholder="Enter company or stock name here"/>
+					<button class="std-btn">Assess</button>
+				</form>
 
 				<!-- It can be other statistics here -->
 				<section class="stats">
