@@ -59,7 +59,7 @@ def scrape_content(url):
     response = requests.request("GET", "https://api.diffbot.com/v3/article", headers=headers, params=querystring).json()
 
     if response.get("objects"):
-        return response.get("objects")[0]['text']
+        return [response.get("objects")[0]['text'], response.get("objects")[0]['sentiment']]
 
     return ""
 
