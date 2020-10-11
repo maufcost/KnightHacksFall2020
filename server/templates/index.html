@@ -2,61 +2,61 @@
 <html lang="en" dir="ltr">
 	<head>
 		<meta charset="utf-8">
-		<title>LOGO | Home</title>
-		<link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+		<title>The News Bank | Home</title>
+		<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 		<script src="https://kit.fontawesome.com/cf30b19bdf.js" crossorigin="anonymous"></script>
 	</head>
 	<body>
 
 		<!-- Header -->
 		<header>
-			<img class="nav-logo" src="{{ url_for('static', filename='images/newsBankLightLogo.png') }}">
-			<p class="nav-logo">Logo</p>
+			<img class="nav-logo" src="{{ url_for('static', filename='images/newsBankLightLogo.png') }}" >
 
 			<ul class="nav">
 				<li>
-					<a href="/nowhere">
-						Amazon (AMZ)
-					</a>
-				</li>
-				<li>
-					<a href="/nowhere">
-						Nike (NIKE)
-					</a>
-				</li>
-				<li>
-					<a href="/nowhere">
+					<a href="/analyze?q=GOGL">
 						Google (GOGL)
 					</a>
 				</li>
 				<li>
-					<a href="/nowhere">
+					<a href="/analyze?q=DIS">
+						Disney (DIS)
+					</a>
+				</li>
+				<li>
+					<a href="/analyze?q=AMZ">
+						Amazon (AMZ)
+					</a>
+				</li>
+				<li>
+					<a href="/analyze?q=FB">
+						Facebook (FB)
+					</a>
+				</li>
+				<li>
+					<a href="/analyze?q=AAPL">
 						Apple (AAPL)
 					</a>
 				</li>
 				<li>
-					<a href="/nowhere">
-						Medifast (MED)
+					<a href="/analyze?q=COF">
+						Capital One (COF)
 					</a>
 				</li>
 				<li>
-					<a href="/nowhere">
-						Alibaba (BABA)
-					</a>
-				</li>
-				<li>
-					<a href="/nowhere">
+					<a href="/analyze?q=NXST">
 						Nexstar (NXST)
 					</a>
 				</li>
 			</ul>
+			
 		</header>
 
 		<main>
 			<section class="left">
-				<h1>We use machine learning to predict stock prices based on the world's news about companies and stocks</h1>
+				<h1> We use machine learning to predict stock prices based on the worlds news about companies and stocks </h1>
 				<p>Give us a shot <i class="fas fa-arrow-right"></i></p>
-				<img class="news-circles" src="{{ url_for('static', filename='images/newsCircles.png') }}"/>
+				<img class="news-circles" src="{{ url_for('static', filename='images/newsCircles.png') }}">
 			</section>
 
 			<section class="right">

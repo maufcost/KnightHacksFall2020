@@ -45,15 +45,13 @@ a:hover {
 }
 
 header {
-	height: 135px;
-	padding-top: 30px;
+	padding-top: 10px;
 	text-align: center;
-	box-shadow: 0 6px 10px var(--std-shadow);
+	box-shadow: 0 10px 10px var(--std-shadow);
 }
 
 .nav-logo {
-	margin-top: 5px;
-	padding-bottom: 30px;
+	width: 100px;
 }
 
 .nav {

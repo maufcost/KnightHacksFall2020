@@ -5,7 +5,14 @@ import json
 import string
 import random
 import os
-#from google.auth.transport import requests
+from google.cloud import language
+from google.cloud.language import enums
+from google.cloud.language import types
+
+
+# Instantiates a client
+client = language.LanguageServiceClient()
+
 #from google.cloud import datastore, storage
 
 #datastore_client = datastore.Client()
@@ -59,12 +66,22 @@ def scrape_content(url):
     response = requests.request("GET", "https://api.diffbot.com/v3/article", headers=headers, params=querystring).json()
 
     if response.get("objects"):
-        return [response.get("objects")[0]['text'], response.get("objects")[0]['sentiment']]
+        return response.get("objects")[0]['text'] #response.get("objects")[0]['sentiment'] --> We will use GCP INSTEAD
 
     return ""
 
+def gcp_sentiment_analysis(text):
+    document = types.Document(content=text, type=enums.Document.Type.PLAIN_TEXT)
+
+    sentiment = client.analyze_sentiment(document=document).document_sentiment
+
+    print("Text: {}".format(text))
+    print("Sentiment: {}, {}".format(sentiment.score, sentiment.magnitude))
+    #from google.auth.transport import requests
+
 @app.route('/')
 def root():
+    #gcp_sentiment_analysis("Nathan is the worst guy in this planet")
     return render_template("index.html")
     #jsonify({"status":"200"})
 
