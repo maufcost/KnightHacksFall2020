@@ -1,0 +1,119 @@
+company,ticker,negative,neutral,positive,netsent,stockb,stocka,category
+IDEXX Laboratories,IDXX,0,0,0,0,393.8200,401.9600,Increase
+company,ticker,negative,neutral,positive,netsent,stockb,stocka,category
+IDEXX Laboratories,IDXX,0,0,0,0,393.8200,401.9600,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,387.6800,393.8200,Increase
+company,ticker,negative,neutral,positive,netsent,stockb,stocka,category
+IDEXX Laboratories,IDXX,0,0,0,0,393.8200,401.9600,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,387.6800,393.8200,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,365.2400,387.6800,Increase
+company,ticker,negative,neutral,positive,netsent,stockb,stocka,category
+IDEXX Laboratories,IDXX,0,0,0,0,393.8200,401.9600,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,387.6800,393.8200,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,365.2400,387.6800,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,370.2500,365.2400,Decrease
+company,ticker,negative,neutral,positive,netsent,stockb,stocka,category
+IDEXX Laboratories,IDXX,0,0,0,0,393.8200,401.9600,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,387.6800,393.8200,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,365.2400,387.6800,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,370.2500,365.2400,Decrease
+J.B. Hunt Transport Services,JBHT,0,0,0,0,128.3500,136.0800,Increase
+company,ticker,negative,neutral,positive,netsent,stockb,stocka,category
+IDEXX Laboratories,IDXX,0,0,0,0,393.8200,401.9600,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,387.6800,393.8200,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,365.2400,387.6800,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,370.2500,365.2400,Decrease
+J.B. Hunt Transport Services,JBHT,0,0,0,0,128.3500,136.0800,Increase
+J.B. Hunt Transport Services,JBHT,0,0,0,0,131.5350,128.3500,Decrease
+company,ticker,negative,neutral,positive,netsent,stockb,stocka,category
+IDEXX Laboratories,IDXX,0,0,0,0,393.8200,401.9600,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,387.6800,393.8200,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,365.2400,387.6800,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,370.2500,365.2400,Decrease
+J.B. Hunt Transport Services,JBHT,0,0,0,0,128.3500,136.0800,Increase
+J.B. Hunt Transport Services,JBHT,0,0,0,0,131.5350,128.3500,Decrease
+J.B. Hunt Transport Services,JBHT,0,0,0,0,131.6200,131.5350,Decrease
+company,ticker,negative,neutral,positive,netsent,stockb,stocka,category
+IDEXX Laboratories,IDXX,0,0,0,0,393.8200,401.9600,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,387.6800,393.8200,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,365.2400,387.6800,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,370.2500,365.2400,Decrease
+J.B. Hunt Transport Services,JBHT,0,0,0,0,128.3500,136.0800,Increase
+J.B. Hunt Transport Services,JBHT,0,0,0,0,131.5350,128.3500,Decrease
+J.B. Hunt Transport Services,JBHT,0,0,0,0,131.6200,131.5350,Decrease
+J.B. Hunt Transport Services,JBHT,0,0,0,0,136.6300,131.6200,Decrease
+company,ticker,negative,neutral,positive,netsent,stockb,stocka,category
+IDEXX Laboratories,IDXX,0,0,0,0,393.8200,401.9600,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,387.6800,393.8200,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,365.2400,387.6800,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,370.2500,365.2400,Decrease
+J.B. Hunt Transport Services,JBHT,0,0,0,0,128.3500,136.0800,Increase
+J.B. Hunt Transport Services,JBHT,0,0,0,0,131.5350,128.3500,Decrease
+J.B. Hunt Transport Services,JBHT,0,0,0,0,131.6200,131.5350,Decrease
+J.B. Hunt Transport Services,JBHT,0,0,0,0,136.6300,131.6200,Decrease
+JD.com,JD,0,0,0,0,78.1384,80.1500,Increase
+company,ticker,negative,neutral,positive,netsent,stockb,stocka,category
+IDEXX Laboratories,IDXX,0,0,0,0,393.8200,401.9600,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,387.6800,393.8200,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,365.2400,387.6800,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,370.2500,365.2400,Decrease
+J.B. Hunt Transport Services,JBHT,0,0,0,0,128.3500,136.0800,Increase
+J.B. Hunt Transport Services,JBHT,0,0,0,0,131.5350,128.3500,Decrease
+J.B. Hunt Transport Services,JBHT,0,0,0,0,131.6200,131.5350,Decrease
+J.B. Hunt Transport Services,JBHT,0,0,0,0,136.6300,131.6200,Decrease
+JD.com,JD,0,0,0,0,78.1384,80.1500,Increase
+JD.com,JD,0,0,0,0,76.1000,78.1384,Increase
+company,ticker,negative,neutral,positive,netsent,stockb,stocka,category
+IDEXX Laboratories,IDXX,0,0,0,0,393.8200,401.9600,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,387.6800,393.8200,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,365.2400,387.6800,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,370.2500,365.2400,Decrease
+J.B. Hunt Transport Services,JBHT,0,0,0,0,128.3500,136.0800,Increase
+J.B. Hunt Transport Services,JBHT,0,0,0,0,131.5350,128.3500,Decrease
+J.B. Hunt Transport Services,JBHT,0,0,0,0,131.6200,131.5350,Decrease
+J.B. Hunt Transport Services,JBHT,0,0,0,0,136.6300,131.6200,Decrease
+JD.com,JD,0,0,0,0,78.1384,80.1500,Increase
+JD.com,JD,0,0,0,0,76.1000,78.1384,Increase
+JD.com,JD,0,0,0,0,75.1500,76.1000,Increase
+company,ticker,negative,neutral,positive,netsent,stockb,stocka,category
+IDEXX Laboratories,IDXX,0,0,0,0,393.8200,401.9600,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,387.6800,393.8200,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,365.2400,387.6800,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,370.2500,365.2400,Decrease
+J.B. Hunt Transport Services,JBHT,0,0,0,0,128.3500,136.0800,Increase
+J.B. Hunt Transport Services,JBHT,0,0,0,0,131.5350,128.3500,Decrease
+J.B. Hunt Transport Services,JBHT,0,0,0,0,131.6200,131.5350,Decrease
+J.B. Hunt Transport Services,JBHT,0,0,0,0,136.6300,131.6200,Decrease
+JD.com,JD,0,0,0,0,78.1384,80.1500,Increase
+JD.com,JD,0,0,0,0,76.1000,78.1384,Increase
+JD.com,JD,0,0,0,0,75.1500,76.1000,Increase
+JD.com,JD,0,0,0,0,76.9100,75.1500,Decrease
+company,ticker,negative,neutral,positive,netsent,stockb,stocka,category
+IDEXX Laboratories,IDXX,0,0,0,0,393.8200,401.9600,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,387.6800,393.8200,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,365.2400,387.6800,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,370.2500,365.2400,Decrease
+J.B. Hunt Transport Services,JBHT,0,0,0,0,128.3500,136.0800,Increase
+J.B. Hunt Transport Services,JBHT,0,0,0,0,131.5350,128.3500,Decrease
+J.B. Hunt Transport Services,JBHT,0,0,0,0,131.6200,131.5350,Decrease
+J.B. Hunt Transport Services,JBHT,0,0,0,0,136.6300,131.6200,Decrease
+JD.com,JD,0,0,0,0,78.1384,80.1500,Increase
+JD.com,JD,0,0,0,0,76.1000,78.1384,Increase
+JD.com,JD,0,0,0,0,75.1500,76.1000,Increase
+JD.com,JD,0,0,0,0,76.9100,75.1500,Decrease
+KLA,KLAC,0,0,0,0,196.3200,212.1100,Increase
+company,ticker,negative,neutral,positive,netsent,stockb,stocka,category
+IDEXX Laboratories,IDXX,0,0,0,0,393.8200,401.9600,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,387.6800,393.8200,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,365.2400,387.6800,Increase
+IDEXX Laboratories,IDXX,0,0,0,0,370.2500,365.2400,Decrease
+J.B. Hunt Transport Services,JBHT,0,0,0,0,128.3500,136.0800,Increase
+J.B. Hunt Transport Services,JBHT,0,0,0,0,131.5350,128.3500,Decrease
+J.B. Hunt Transport Services,JBHT,0,0,0,0,131.6200,131.5350,Decrease
+J.B. Hunt Transport Services,JBHT,0,0,0,0,136.6300,131.6200,Decrease
+JD.com,JD,0,0,0,0,78.1384,80.1500,Increase
+JD.com,JD,0,0,0,0,76.1000,78.1384,Increase
+JD.com,JD,0,0,0,0,75.1500,76.1000,Increase
+JD.com,JD,0,0,0,0,76.9100,75.1500,Decrease
+KLA,KLAC,0,0,0,0,196.3200,212.1100,Increase
+KLA,KLAC,0,0,0,0,193.6800,196.3200,Increase

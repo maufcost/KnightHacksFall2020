@@ -1,0 +1,54 @@
+IDXX,IDEXX Laboratories 
+JBHT,J.B. Hunt Transport Services 
+JD,JD.com 
+KLAC,KLA 
+KHC,Kraft Heinz Co
+LRCX,Lam Research 
+LBTYA,Liberty Global PLC
+LBTYK,Liberty Global PLC
+LULU,Lululemon Athletica 
+MELI,Mercadolibre 
+MAR,Marriott International 
+MCHP,Microchip Technology 
+MDLZ,Mondelez International 
+MNST,Monster Beverage 
+MSFT,Microsoft 
+MU,Micron Technology 
+MXIM,Maxim Integrated Products 
+MYL,Mylan NV
+NTAP,NetApp 
+NFLX,Netflix 
+NTES,NetEase 
+NVDA,NVIDIA 
+NXPI,NXP Semiconductors NV
+ORLY,OReilly Automotive 
+PAYX,Paychex 
+PCAR,Paccar 
+BKNG,Booking Holdings 
+PYPL,PayPal Holdings 
+PEP,PepsiCo
+QCOM,Qualcomm 
+REGN,Regeneron Pharmaceuticals 
+ROST,Ross Stores 
+SIRI,Sirius XM Holdings 
+SWKS,Skyworks Solutions 
+SBUX,Starbucks 
+NLOK,NortonLifeLock 
+SNPS,Synopsys 
+TTWO,Take Two Interactive Software 
+TSLA,Tesla 
+TXN,Texas Instruments 
+TMUS,Tmobile
+ULTA,Ulta Beauty 
+UAL,United Airlines Holdings 
+VRSN,Verisign 
+VRSK,Verisk Analytics 
+VRTX,Vertex Pharmaceuticals 
+WBA,Walgreens Boots Alliance 
+WDC,Western Digital 
+WDAY,Workday 
+WYNN,Wynn Resorts 
+XEL,Xcel Energy 
+XLNX,Xilinx 
+J.B. Hunt Transport Services ,
+JD.com ,

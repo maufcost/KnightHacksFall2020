@@ -1,0 +1,102 @@
+ATVI,Activision Blizzard
+ADBE,Adobe
+AMD,Advanced Micro Devices
+ALGN,Align Technology 
+ALXN,Alexion Pharmaceuticals 
+AMZN,Amazon.com 
+AMGN,Amgen 
+AAL,American Airlines  
+ADI,Analog Devices 
+AAPL,Apple 
+AMAT,Applied Materials 
+ASML,ASML Holding NV
+ADSK,Autodesk 
+ADP,Automatic Data Processing 
+AVGO,Broadcom 
+BIDU,Baidu 
+BIIB,Biogen 
+BMRN,Biomarin Pharmaceutical 
+CDNS,Cadence Design Systems 
+CERN,Cerner 
+CHKP,Check Point Software Technologies 
+CHTR,Charter Communications 
+TCOM,Trip.com  
+CTAS,Cintas 
+CSCO,Cisco Systems 
+CTXS,Citrix Systems 
+CMCSA,Comcast 
+COST,Costco Wholesale 
+CSX,CSX 
+CTSH,Cognizant Technology Solutions 
+DLTR,Dollar Tree 
+EA,Electronic Arts
+EBAY,eBay 
+EXC,Exelon 
+EXPE,Expedia  
+FAST,Fastenal Co
+FB,Facebook
+FISV,Fiserv 
+GILD,Gilead Sciences 
+GOOG,Alphabet Class C
+GOOGL,Alphabet Class A
+HAS,Hasbro 
+HSIC,Henry Schein 
+ILMN,Illumina 
+Y,yte 
+INTC,Intel 
+INTU,Intuit 
+ISRG,Intuitive Surgical 
+IDXX,IDEXX Laboratories 
+JBHT,J.B. Hunt Transport Services 
+JD,JD.com 
+KLAC,KLA 
+KHC,Kraft Heinz Co
+LRCX,Lam Research 
+LBTYA,Liberty Global PLC
+LBTYK,Liberty Global PLC
+LULU,Lululemon Athletica 
+MELI,Mercadolibre 
+MAR,Marriott International 
+MCHP,Microchip Technology 
+MDLZ,Mondelez International 
+MNST,Monster Beverage 
+MSFT,Microsoft 
+MU,Micron Technology 
+MXIM,Maxim Integrated Products 
+MYL,Mylan NV
+NTAP,NetApp 
+NFLX,Netflix 
+NTES,NetEase 
+NVDA,NVIDIA 
+NXPI,NXP Semiconductors NV
+ORLY,OReilly Automotive 
+PAYX,Paychex 
+PCAR,Paccar 
+BKNG,Booking Holdings 
+PYPL,PayPal Holdings 
+PEP,PepsiCo
+QCOM,Qualcomm 
+REGN,Regeneron Pharmaceuticals 
+ROST,Ross Stores 
+SIRI,Sirius XM Holdings 
+SWKS,Skyworks Solutions 
+SBUX,Starbucks 
+NLOK,NortonLifeLock 
+SNPS,Synopsys 
+TTWO,Take Two Interactive Software 
+TSLA,Tesla 
+TXN,Texas Instruments 
+TMUS,Tmobile
+ULTA,Ulta Beauty 
+UAL,United Airlines Holdings 
+VRSN,Verisign 
+VRSK,Verisk Analytics 
+VRTX,Vertex Pharmaceuticals 
+WBA,Walgreens Boots Alliance 
+WDC,Western Digital 
+WDAY,Workday 
+WYNN,Wynn Resorts 
+XEL,Xcel Energy 
+XLNX,Xilinx 
+J.B. Hunt Transport Services ,
+JD.com ,
